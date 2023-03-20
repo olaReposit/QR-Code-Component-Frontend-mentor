@@ -24,7 +24,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Live Site URL: [Netlify](https://app.netlify.com/olareposit)
-- Github Repository URL: [Repository](https://github.com/olaReposit/QR-Code-Frontend-mentor)
+- Github Repository URL: [Repository](https://github.com/olaReposit/QR-Code-Component-Frontend-mentor)
 
 ## My process
 
