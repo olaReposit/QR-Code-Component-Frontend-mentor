@@ -1,0 +1,68 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Outfits", "poppins", sans-serif;
+}
+
+/*Creating color variables*/
+:root {
+  --light-gray: hsl(212, 45%, 89%);
+  --grayish-blue: hsl(220, 15%, 55%);
+  --dark-blue: hsl(218, 44%, 22%);
+}
+
+body {
+  background-color: var(--light-gray);
+  font-size: 15px;
+}
+
+.container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.content {
+  background-color: white;
+  width: 320px;
+  padding: 1em;
+  box-sizing: border-box;
+  border-radius: 1.5em;
+  box-shadow: 2px 2px 10px -6px var(--grayish-blue);
+}
+
+img {
+  width: 100%;
+  border-radius: 1em;
+}
+
+.text {
+  padding: 1em;
+  display: block;
+}
+
+h2 {
+  color: var(--dark-blue);
+  text-align: center;
+  margin-bottom: 1em;
+  font-size: 1.2em;
+}
+
+p {
+  text-align: center;
+  color: var(--grayish-blue);
+  font-size: 15px;
+}
+
+.attribution {
+  position: absolute;
+  bottom: 0;
+  text-align: center;
+  width: 100%;
+  font-size: 11px;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
