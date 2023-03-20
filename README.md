@@ -90,7 +90,7 @@ Also, css animations is another continious development I aim.
 
 - Frontend Mentor - [@olaReposit](https://www.frontendmentor.io/profile/olaReposit)\*\*
 - Twitter - [@heis_olajide](https://www.twitter.com/heis_olajide)\*\*
-- Netlify - [olaReposit](https://app.netlify.com/olareposit)\*\*
+- Netlify - [olaReposit](https://app.netlify.com/teams/olareposit/overview)\*\*
 - Github - [olaReposit](https://github.com/olaReposit)\*\*
 
 ## Acknowledgments
